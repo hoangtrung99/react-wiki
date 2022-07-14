@@ -1,25 +1,21 @@
-# React
-
----
-
-#### Environment
+## Environment
 
 - [Node LTS Version](https://nodejs.dev/download/)
 - [Yarn](https://yarnpkg.com/) (recommend tool for package manager)
 
-#### Recommend tools
+## Recommend tools
 
 - [VSCode Editor](https://code.visualstudio.com/).
 - [ViteJS](https://vitejs.dev/) for project initiation, development and building.
 
-#### Convention code
+## Convention code
 
 - [Commit-lint](https://github.com/conventional-changelog/commitlint)
 - [Naming](https://github.com/kettanaito/naming-cheatsheet)
 - [react-philosophies](https://github.com/mithi/react-philosophies)
 - [Clean code](https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents)
 
-#### Recommend VSCode Extensions for web developer
+## Recommend VSCode Extensions for web developer
 
 **Common**
 
@@ -52,7 +48,7 @@
 - [FiraCode](https://github.com/tonsky/FiraCode) ( free monospaced font with programming ligatures )
 - [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
 
-#### Some great articles and utility for react hook
+## Some great articles and utility for react hook
 
 **Articles**
 
@@ -72,7 +68,7 @@
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [React Aria](https://react-spectrum.adobe.com/react-aria/index.html)
 
-#### Awesome lib for project
+## Awesome lib for project
 
 **Query**
 
@@ -115,9 +111,9 @@
 - [dayjs](https://day.js.org/)
 - [React intl](https://github.com/formatjs/formatjs)
 
-##### [See more...](https://github.com/hoangtrung99?tab=stars)
+**[See more...](https://github.com/hoangtrung99?tab=stars)**
 
-#### Example
+## Example
 
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react)
 - [Axios](https://github.com/ychengcloud/react-vite-admin/blob/main/src/api/request.ts)
