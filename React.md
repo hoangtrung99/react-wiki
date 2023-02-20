@@ -58,6 +58,7 @@
 - [React useMemo vs. useCallback: A pragmatic guide](https://blog.logrocket.com/react-usememo-vs-usecallback-a-pragmatic-guide/)
 - [https://kentcdodds.com/blog/usememo-and-usecallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 - [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
+- [Timeline of a React Component With Hooks](https://julesblom.com/writing/react-hook-component-timeline)
 
 **Utility**
 
