@@ -46,6 +46,7 @@ pm2 start yarn --name nextjs-project -- start [-p <port>]
 ```
 
 ```bash
+# static export
 pm2 start yarn --name next-export -- serve <export outDir> -l <port>
 ```
 Not finished, I will write more...
@@ -53,11 +54,7 @@ Not finished, I will write more...
 
 ##### ViteJs
 ```bash
-pm2 start yarn --name vite-project -- preview --host [-p <port>]
-```
-
-```bash
-pm2 start yarn --name vite-project -- serve -s <build outDir> -l <port>
+pm2 start --spa --name vite-project <build outDir> <port>
 ```
 Not finished, I will write more...
 
