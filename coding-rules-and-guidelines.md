@@ -133,6 +133,7 @@ Using functions or classes as much as possible, reusing your code, and making co
   - [react-philosophies](https://github.com/mithi/react-philosophies)
   - [Clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents)
   - [PHP - PSR-12](https://www.php-fig.org/psr/psr-12/)
+  - [Refactoring](https://refactoring.guru/)
 
 ### Commit lint
 
