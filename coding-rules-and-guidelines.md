@@ -92,7 +92,7 @@ Commenting on your code is another way of making the code readable. This can be 
 - Code with too many comments is a sign of bad code.
 - Comments should explain why instead of what, it can explain why if it's a bit complicated.
 - Write your comments as such others can easily understand. It should be able to explain the purpose, functionality, or intent of the code.
-- Put comments as such it provides context. You should If you're referring to something specific, provide enough context for others to understand your comment. You should write a comment before the code. In-line comments should be used for small comments.
+- Put comments as such it provides context. If you're referring to something specific, provide enough context for others to understand your comment. You should write a comment before the code. In-line comments should be used for small comments.
 - Follow a consistent commenting style as per the programming language. There are various ways of commenting but choose one and stick with that for readability purposes.
 - Be concise with your comments. Long and overly explained comments can become difficult to read.
   Don’t write comments for each line. As it will overshadow the important comments and also make the code full of comments.
