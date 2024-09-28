@@ -134,6 +134,7 @@ Using functions or classes as much as possible, reusing your code, and making co
   - [Clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents)
   - [PHP - PSR-12](https://www.php-fig.org/psr/psr-12/)
   - [Refactoring](https://refactoring.guru/)
+  - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 
 ### Commit lint
 
